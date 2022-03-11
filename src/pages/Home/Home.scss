@@ -1,0 +1,14 @@
+.content {
+  margin: 60px 0;
+
+  &__header {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 30px;
+  }
+
+  &__items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,14 @@
+.search {
+  $self: &;
+
+  margin-top: 100px;
+
+  &-info {
+    margin-bottom: 30px;
+  }
+
+  &-content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
